@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Glorious Day",
+  "base_artist": "Eve",
+  "createdAt": "2026-03-19T06:59:24.299526Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Glorious Day",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/01_Glorious_Day_Weezer.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Glorious Day",
+      "artist": "Weezer",
+      "has_synced": true,
+      "path": "select/02_Glorious_Day_Weezer.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Glorious Day",
+      "artist": "Born of Osiris",
+      "has_synced": true,
+      "path": "select/03_Glorious_Day_Born_of_Osiris.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Glorious Day",
+      "artist": "RZA",
+      "has_synced": false,
+      "path": "select/04_Glorious_Day_RZA.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "GLORIOUS DAY",
+      "artist": "Rend Collective",
+      "has_synced": true,
+      "path": "select/05_GLORIOUS_DAY_Rend_Collective.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Glorious Day (Living He Loved Me)",
+      "artist": "Casting Crowns",
+      "has_synced": true,
+      "path": "select/06_Glorious_Day_(Living_He_Loved_Me)_Casting_Crowns.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Glorious Day (Living He Loved Me)",
+      "artist": "Casting Crowns",
+      "has_synced": true,
+      "path": "select/07_Glorious_Day_(Living_He_Loved_Me)_Casting_Crowns.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Glorious Day (Live)",
+      "artist": "Passion feat. Kristian Stanfill",
+      "has_synced": true,
+      "path": "select/08_Glorious_Day_(Live)_Passion_feat._Kristian_Stanfill.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Glorious Day - Live",
+      "artist": "Passion/Kristian Stanfill",
+      "has_synced": true,
+      "path": "select/09_Glorious_Day_-_Live_Passion_Kristian_Stanfill.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Glorious Day",
+      "artist": "David Crowder Band",
+      "has_synced": true,
+      "path": "select/10_Glorious_Day_David_Crowder_Band.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Glorious Day",
+      "artist": "Born of Osiris",
+      "has_synced": false,
+      "path": "select/11_Glorious_Day_Born_of_Osiris.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Glorious Day (Living He Loved Me)",
+      "artist": "Casting Crowns feat. Jon Reddick & Tasha Layton",
+      "has_synced": false,
+      "path": "select/12_Glorious_Day_(Living_He_Loved_Me)_Casting_Crowns_feat._Jon_Reddick_&_Tasha_Layton.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Glorious Day (Living He Loved Me)",
+      "artist": "Casting Crowns, Jon Reddick, Tasha Layton",
+      "has_synced": false,
+      "path": "select/13_Glorious_Day_(Living_He_Loved_Me)_Casting_Crowns,_Jon_Reddick,_Tasha_Layton.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Glorious Day (Living He Loved Me) - Radio Edit",
+      "artist": "Casting Crowns",
+      "has_synced": true,
+      "path": "select/14_Glorious_Day_(Living_He_Loved_Me)_-_Radio_Edit_Casting_Crowns.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Glorious Day",
+      "artist": "David Jordan",
+      "has_synced": false,
+      "path": "select/15_Glorious_Day_David_Jordan.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Glorious Day",
+      "artist": "Eve",
+      "has_synced": false,
+      "path": "select/pl_01_Glorious_Day_Eve.txt"
+    }
+  ]
+}
